@@ -35,4 +35,4 @@ Pan and tilt system that you can use as a prototype:
 
 Fritzing  :
 
-![Project Image](Images/image1.jpg)
+![Project Image](Images/image1.png)
