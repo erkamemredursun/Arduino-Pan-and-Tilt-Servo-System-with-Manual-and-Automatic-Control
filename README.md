@@ -15,4 +15,4 @@ This repository contains the Arduino code and documentation for a pan and tilt s
 
 Explore the code and documentation for detailed implementation and customization.
 
-![Project Image](Images/image1.jpg)
+![Project Image](Images/image1.png)
