@@ -1,6 +1,8 @@
 # Arduino-Pan-and-Tilt-Servo-System-with-Manual-and-Automatic-Control
 This repository contains the Arduino code and documentation for a pan and tilt servo system with manual and automatic control. The system consists of two servos, where the lower servo is controlled using a potentiometer. The project includes functionality for manual control using the potentiometer and automatic control with predefined angles.
 
+![Project Image](Images/pantilt.gif)
+
 ### Features:
 - Manual Control: Use the potentiometer to manually control the position of the servo.
 - Automatic Control: Define and save specific angles by turning the servo with the potentiometer and pressing buttons.
